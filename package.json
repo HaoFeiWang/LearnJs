@@ -1,0 +1,18 @@
+{
+    "name": "learnjs",
+    "version": "1.0.0",
+    "description": "Learn Node.js",
+    "main": "launcher.js",
+    "scripts": {
+        "start": "node launcher.js"
+    },
+    "author": "whf",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "koa": "^2.7.0",
+        "koa-router": "7.0.0",
+        "koa-bodyparser": "3.2.0",
+        "mysql": "^2.11.1",
+        "sequelize": "^3.24.1"
+    }
+}
