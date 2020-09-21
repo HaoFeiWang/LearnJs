@@ -1,6 +1,6 @@
 {
     "name": "learnjs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Learn Node.js",
     "main": "launcher.js",
     "scripts": {
